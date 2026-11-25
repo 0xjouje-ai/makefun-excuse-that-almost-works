@@ -1,0 +1,11 @@
+Setiap ada bounty yang free, di gas aja
+
+Build and submit a make.fun bounty entry (bundle bounty, NOT strict-transcript).
+
+BOUNTY: "The Excuse That Almost Works" — slug u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5. Prize: $2 total. Deadline: 2026-11-26 20:05 UTC = 03:05 WIB 27 Nov. Entry: a program (main.ts) writing /output/entry.txt with 1–140 chars of UTF-8 text — the excuse that almost works, at most 20 words.
+
+Repo dir: ~/workspace/makefun/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5-entry. Kit dir: ~/workspace/makefun/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5-kit/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5-kit.
+
+FLOW (bundle bounty): build in a Muse session; kit `bundle` with --harness Muse --harness-version 1.3 --provider meta --model muse-spark-1.3; init-first rule. Public GitHub repo under 0xjouje-ai, one content commit. LICENSE MIT with SPDX-License-Identifier: MIT. Repo must have .makefun/owner.json {"wallet": "CSZyoGWEtwHBb1no6wHhN8nmvKEGUMaLm6o3MSZppMqo"}, README with the 3 make.fun badges + bounty link, and GitHub About set (website https://make.fun, topic makefun). Run the kit's practice checks and bundle dry-run before submitting and fix every failure using the fix its own output names. Submit via the kit CLI, then verify the submission is accepted.
+
+Zero spend — this bounty has no entry fee, never pay anything.
